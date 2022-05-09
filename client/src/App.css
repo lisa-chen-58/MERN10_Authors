@@ -1,0 +1,59 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  text-align: center;
+  background-color: gold;
+  width:auto;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(5px + 2vmin);
+  color: black;
+  border-radius: 20px;
+  border-style: groove;
+  border-color: black;
+}
+
+.App-link {
+  color: black;
+  font-size: 20px;
+  text-decoration: none;
+}
+
+.red-button {
+  background-color:palevioletred;
+  padding: 5px 10px;
+  border-radius: 20px;
+  border-style: groove;
+  border-width: 5px;
+  font-size: 15px;
+  margin: 15px ;
+}
+
+.khaki-button {
+  background-color: khaki;
+  padding: 5px 10px;
+  border-radius: 20px;
+  border-style: groove;
+  border-width: 5px;
+  font-size: 15px;
+  margin: 15px ;
+}
+
+.lav-button {
+  background-color: lavender;
+  padding: 5px 10px;
+  border-radius: 20px;
+  border-style: groove;
+  border-width: 5px;
+  font-size: 15px;
+  margin: 15px ;
+};
+
+Link {
+  margin: 15px;
+}
